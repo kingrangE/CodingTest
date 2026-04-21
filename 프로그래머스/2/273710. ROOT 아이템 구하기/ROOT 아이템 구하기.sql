@@ -1,0 +1,14 @@
+# -- 코드를 작성해주세요
+# SELECT ITEM_ID, ITEM_NAME
+# FROM ITEM_INFO I
+# JOIN ITEM_TREE T
+#     ON I.ITEM_ID = T.ITEM_ID
+# # 여기까지 하면, 어떤 부모 아이템으로 이걸 만들 수 있는지 앎
+# JOIN ITEM_INFO P
+#     ON P.ITEM_ID = T.PARENT_ID  # 부모의 아이디가 어떤 아이템인지 확인
+
+SELECT I.ITEM_ID, I.ITEM_NAME
+FROM ITEM_INFO I
+JOIN ITEM_TREE T
+    ON I.ITEM_ID = T.ITEM_ID
+WHERE T.PARENT_ITEM_ID IS NULL
