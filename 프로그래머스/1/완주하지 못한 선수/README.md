@@ -72,15 +72,13 @@
 | --- | --- |
 | Status | Accepted |
 | Language | Python3 |
-| Runtime | 0.00 ms |
-| Memory | 9.08 MB |
-| Submitted At | 2026년 05월 12일 08:24:09 |
+| Runtime | Unknown |
+| Memory | Unknown |
+| Submitted At | 2026년 05월 12일 08:24:41 |
 
 ### Result Summary
 
-- 정확성: 58.3
-- 효율성: 41.7
-- 합계: 100.0 / 100.0
+- Empty
 
 ---
 
