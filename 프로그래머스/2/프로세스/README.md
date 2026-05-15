@@ -81,9 +81,9 @@
 | --- | --- |
 | Status | Accepted |
 | Language | Python3 |
-| Runtime | 0.01 ms |
-| Memory | 9.25 MB |
-| Submitted At | 2026년 05월 15일 17:37:32 |
+| Runtime | 0.00 ms |
+| Memory | 9.2 MB |
+| Submitted At | 2026년 05월 15일 17:45:16 |
 
 ### Result Summary
 
